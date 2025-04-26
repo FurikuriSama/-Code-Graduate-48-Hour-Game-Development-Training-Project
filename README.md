@@ -1,2 +1,2 @@
-战斗系统未完成（主角）；场景仅有第一幕  
-已删除Library文件夹（大文件）
+The combat system is unfinished (protagonist); scenes are Act 1 only.
+Library folder removed (large files).
